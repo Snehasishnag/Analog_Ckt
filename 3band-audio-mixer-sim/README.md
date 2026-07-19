@@ -53,4 +53,4 @@ This design was verified using two primary SPICE simulations:
 4. To view the frequency response, comment out the `.tran` directive, uncomment the `.ac` directive, and click **Run**.
 
 ---
-*Designed by [Snehasish Nag] - 2026*
+*Designed by [Snehasish Nag] - 2k26*
